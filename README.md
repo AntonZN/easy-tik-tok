@@ -1,4 +1,4 @@
-#A simple parody of TikTok
+# A simple parody of TikTok
 
 Example Lightweight API for building tiktok-like applications
 
