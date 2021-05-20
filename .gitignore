@@ -1,0 +1,10 @@
+.env
+.idea
+__pycache__
+app.egg-info
+*.lock
+venv/
+*.sqlite3
+*.log
+*.mbtree
+media/
